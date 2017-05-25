@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/beiyannanfei/keyspace-notification/issues"
   },
-  "homepage": "https://github.com/beiyannanfei/keyspace-notification#readme"
+  "homepage": "https://github.com/beiyannanfei/keyspace-notification#readme",
+  "dependencies": {
+    "ioredis": "^3.0.0",
+    "redis": "^2.7.1"
+  }
 }
